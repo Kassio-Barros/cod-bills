@@ -1,0 +1,19 @@
+{
+  "name": "cod-bills",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kassio-Barros/cod-bills.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kassio-Barros/cod-bills/issues"
+  },
+  "homepage": "https://github.com/Kassio-Barros/cod-bills#readme"
+}
